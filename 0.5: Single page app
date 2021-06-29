@@ -1,0 +1,10 @@
+title Activity Diagram for Opening SPA
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+server-->browser: HTML code
+
+note over browser:
+The browser manipulates the html code 
+using javaScript and executes it in 
+the browser
+end note
