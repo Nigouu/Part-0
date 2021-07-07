@@ -15,5 +15,5 @@ server-->browser: favicon.ico
 
 
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
-server-->browser: [{ content: "HTML is easy", date: "2019-05-23" }, ...]
+server-->browser: [{ content: "Jeebox", date: "2021-07-07" }, ...]
 
